@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "ro.nosco-learning.connect",
     "appname": "RML Connect",
     "versioncode" : "2018",
     "versionname" : "1.0",
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://devel.profiduciaria.ro/rm",
+    "siteurl": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"

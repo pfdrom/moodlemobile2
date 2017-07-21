@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ro.nosco-learning.connect" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>RML Connect</name>
   <description>RML Connect mobile app</description>
   <author href="http://www.nosco-learning.com" email="pfdrom@gmail.com">PFDRom</author>
